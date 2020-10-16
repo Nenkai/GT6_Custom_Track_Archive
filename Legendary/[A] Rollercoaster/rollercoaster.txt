@@ -3,7 +3,7 @@
 ***********************************************
 
 Name: Rollercoaster
-Author: ?
+Author: PR1VATEJ0KER
 Provided by: Dezent
 Purpose: Rollercoaster (Huge climb and drop down)
 Created: ?
