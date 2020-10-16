@@ -10,7 +10,7 @@ For more information: https://www.gtplanet.net/forum/threads/course-maker-toolbo
 Folders prefixes:
 * [A] : Andalusia
 * [E] : Eifel
-* [E_L] : Eifel Flat
+* [E_F] : Eifel Flat
 * [DV] : Death Valley
 
 Each track folder will have three files, one for details, one containing the actual ted file, and one already compressed & Base64 encoded TED file for use in event XML's.
