@@ -1,0 +1,10 @@
+***********************************************
+************ Course Archive Details ***********
+***********************************************
+
+Name: Rollercoaster
+Author: ?
+Provided by: Dezent
+Purpose: Rollercoaster (Huge climb and drop down)
+Created: ?
+Archived: 16/10/2020
