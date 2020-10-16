@@ -1,0 +1,7 @@
+***********************************************
+************ Course Archive Details ***********
+***********************************************
+
+Name: Nenkai 36KM
+Author: Klitlika
+Purpose: Just testing track length boundaries
