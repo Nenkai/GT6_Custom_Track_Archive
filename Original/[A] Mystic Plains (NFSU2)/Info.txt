@@ -1,0 +1,7 @@
+Mystic Plains
+
+Theme: Andalusia
+Track Length: 4.43 miles (Loop)
+No. of Turns: 100
+Creator:  JEMCIV
+Comments: To-scale recreation of Mystic Peaks of NFS2. Final section altered as loops are unsupported. 

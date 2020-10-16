@@ -1,0 +1,7 @@
+Block 8*1 
+
+Theme: Eifel Flat
+Track Length: 1.11 miles (Loop)
+No. of Turns: 8
+Creator:  thematic604
+Comments: City block sim, 800 by 100 m 
